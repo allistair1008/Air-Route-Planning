@@ -10,4 +10,4 @@ Air-Route-Planning is a Command Line Interface program which allows users to fin
 
 The program makes use of Djikstra's Algorithm for pathfinding while taking into account the limited fuel the plane has.
 
-Run CommandLineDriver.java without any arguments to start up the Command Line Interface
+Type in `make` to compile the project and start up the Command Line Interface
